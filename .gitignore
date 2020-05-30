@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Class Materials
+Module 14-Detailed-Rubric.pdf
+CitiData
+McDonalds
+BikeSharing.twbx
+
 # Distribution / packaging
 .Python
 build/
